@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/noushal/Leetcode/tree/master/2383-add-two-integers) |
+| [2812-find-the-maximum-achievable-number](https://github.com/noushal/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
