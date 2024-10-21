@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/noushal/Leetcode/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/noushal/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
