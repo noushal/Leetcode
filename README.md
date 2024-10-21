@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/noushal/Leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/noushal/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/noushal/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/noushal/Leetcode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/noushal/Leetcode/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/noushal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/noushal/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noushal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/noushal/Leetcode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/noushal/Leetcode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/noushal/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/noushal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/noushal/Leetcode/tree/master/1899-count-items-matching-a-rule) |
