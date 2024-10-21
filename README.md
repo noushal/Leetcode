@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/noushal/Leetcode/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/noushal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/noushal/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/noushal/Leetcode/tree/master/2383-add-two-integers) |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/noushal/Leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/noushal/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/noushal/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
