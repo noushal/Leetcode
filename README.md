@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/noushal/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/noushal/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/noushal/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
