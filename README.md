@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/noushal/Leetcode/tree/master/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/noushal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/noushal/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noushal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/noushal/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/noushal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/noushal/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/noushal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/noushal/Leetcode/tree/master/3311-ant-on-the-boundary) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/noushal/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
