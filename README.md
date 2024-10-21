@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/noushal/Leetcode/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/noushal/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1899-count-items-matching-a-rule](https://github.com/noushal/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/noushal/Leetcode/tree/master/3379-score-of-a-string) |
