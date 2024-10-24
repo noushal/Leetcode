@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/noushal/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noushal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/noushal/Leetcode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/noushal/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/noushal/Leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/noushal/Leetcode/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/noushal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting Sort
 |  |
