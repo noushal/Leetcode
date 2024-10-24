@@ -6,10 +6,20 @@
 
 public class Solution {
     public int SingleNumber(int[] nums) {
-        int result = 0;
+        HashSet<int> set = new HashSet<int>();
+        
         foreach (int num in nums) {
-            result ^= num;
+            if (set.Contains(num)) {
+                set.Remove(num);
+            } else {
+                set.Add(num);
+            }
         }
-        return result;
+
+        foreach (int num in set) {
+            return num;
+        }
+        
+        return -1;
     }
 }
