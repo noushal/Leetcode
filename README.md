@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/noushal/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/noushal/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noushal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/noushal/Leetcode/tree/master/0932-monotonic-array) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/noushal/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noushal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/noushal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noushal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/noushal/Leetcode/tree/master/1635-number-of-good-pairs) |
