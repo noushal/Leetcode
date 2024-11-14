@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/noushal/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/noushal/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noushal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/noushal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noushal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/noushal/Leetcode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noushal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noushal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/noushal/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/noushal/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/noushal/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/noushal/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/noushal/Leetcode/tree/master/0657-robot-return-to-origin) |
