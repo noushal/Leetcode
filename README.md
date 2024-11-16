@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/noushal/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/noushal/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/noushal/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/noushal/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/noushal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/noushal/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/noushal/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/noushal/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/noushal/Leetcode/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/noushal/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
 ## Counting Sort
 |  |
 | ------- |
