@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/noushal/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/noushal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/noushal/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/noushal/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/noushal/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/noushal/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/noushal/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/noushal/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/noushal/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/noushal/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/noushal/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/noushal/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Math
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/noushal/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/noushal/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3312-number-of-changing-keys](https://github.com/noushal/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/noushal/Leetcode/tree/master/3379-score-of-a-string) |
