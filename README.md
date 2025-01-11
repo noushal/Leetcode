@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noushal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/noushal/Leetcode/tree/master/0932-monotonic-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/noushal/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/noushal/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/noushal/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/noushal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/noushal/Leetcode/tree/master/0242-valid-anagram) |
+| [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/noushal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/noushal/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noushal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/noushal/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/noushal/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
