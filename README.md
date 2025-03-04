@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/noushal/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/noushal/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/noushal/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/noushal/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/noushal/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/noushal/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/noushal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/noushal/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/noushal/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Simulation
@@ -224,4 +226,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/noushal/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/noushal/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/noushal/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
