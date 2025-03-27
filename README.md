@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noushal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/noushal/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noushal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/noushal/Leetcode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/noushal/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/noushal/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noushal/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/noushal/Leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/noushal/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/noushal/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/noushal/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
