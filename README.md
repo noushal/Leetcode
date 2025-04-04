@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/noushal/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noushal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/noushal/Leetcode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/noushal/Leetcode/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/noushal/Leetcode/tree/master/1137-height-checker) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/noushal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/noushal/Leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/noushal/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/noushal/Leetcode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/noushal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/noushal/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
