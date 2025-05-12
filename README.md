@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/noushal/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/noushal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
 | [2737-row-with-maximum-ones](https://github.com/noushal/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2777-find-the-distinct-difference-array](https://github.com/noushal/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/noushal/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/noushal/Leetcode/tree/master/2159-two-out-of-three) |
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/noushal/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
 | [2777-find-the-distinct-difference-array](https://github.com/noushal/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/noushal/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/noushal/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/noushal/Leetcode/tree/master/0035-search-insert-position) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/noushal/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/noushal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
 ## Number Theory
 |  |
 | ------- |
