@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/noushal/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/noushal/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/noushal/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noushal/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/noushal/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/noushal/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/noushal/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/noushal/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/noushal/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/noushal/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noushal/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/noushal/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/noushal/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noushal/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/noushal/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/noushal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/noushal/Leetcode/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noushal/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
 | ------- |
